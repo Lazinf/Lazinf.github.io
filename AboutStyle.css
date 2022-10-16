@@ -1,0 +1,11 @@
+.bigTitle {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+    color: #000000;
+}
+.email, .phoneNumber {
+    font-family: Geneva, Verdana, sans-serif;
+    font-size: 12px;
+
+
+}
